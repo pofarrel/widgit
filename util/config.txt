@@ -1,5 +1,5 @@
 config1 ab
 
-config2: 123
+config2: 5
 
 config3:1j2
